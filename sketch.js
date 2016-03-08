@@ -1,9 +1,9 @@
 //================================
-//	view your project using anvil at:
-//	http://images.dev
 //
 // or after you upload it to github at:
 //	http://yourusername.github.io/images/
+
+// put everything inside the pages folder
 //================================
 
 //STEP 1: Declare global variables for your images and upload button
@@ -17,7 +17,7 @@ function preload(){
 }
 
 function setup() {
-
+	createCanvas(windowWidth,windowHeight);
 	//STEP 3
 	//add a file upload button with CreateFileInput(_____);
 
@@ -27,7 +27,7 @@ function setup() {
 }
 
 function draw() {
-
+ellipse(0,0,50,50);
 	//STEP 5:
 	//draw your images with image(imagevariable);
 
