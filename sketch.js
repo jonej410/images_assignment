@@ -1,7 +1,7 @@
 //================================
 //
 // or after you upload it to github at:
-//	http://yourusername.github.io/images/
+//	http://jonej410.github.io/images_assignment/
 
 // put everything inside the pages folder
 //================================
